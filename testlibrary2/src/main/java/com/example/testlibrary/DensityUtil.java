@@ -5,7 +5,7 @@ package com.example.testlibrary;
  */
 
 public class DensityUtil {
-    public static String getString(Context context){
+    public static String getString(){
         return "aaa";
     }
 }
