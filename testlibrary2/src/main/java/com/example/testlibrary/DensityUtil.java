@@ -48,3 +48,4 @@ public class DensityUtil {
         }
         return statusBarHeight1;
     }
+}
